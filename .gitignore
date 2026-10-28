@@ -1,0 +1,6 @@
+.vercel
+_backup_raw/
+*.py
+check_*.py
+test_*.py
+*.png
